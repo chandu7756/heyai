@@ -1,5 +1,4 @@
 # heyai
-it is about ai which tell information about anything
 <br>
 It is about java code 
 This Java program finds and prints all prime numbers from 2 to 50. 
